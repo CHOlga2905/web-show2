@@ -74,7 +74,7 @@ button{
     flex-direction: column;
     justify-content: center;
  }
-  .hero-chooseb:nth-child(1){
+  .hero-choose:nth-child(1){
     background: #7b7b7b;
  }
  .hero-choose:nth-child(2){
